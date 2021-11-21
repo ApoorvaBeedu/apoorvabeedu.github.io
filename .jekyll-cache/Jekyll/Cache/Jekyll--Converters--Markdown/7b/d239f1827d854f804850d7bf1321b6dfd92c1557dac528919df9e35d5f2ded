@@ -1,0 +1,309 @@
+I"\<div class="publications">
+
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+    
+  </div>
+
+  <div id="haresamudram2020masked" class="col-sm-8">
+    
+    <div class="title">Masked reconstruction based self-supervision for human activity recognition</div>
+    <div class="author">
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Haresamudram, Harish,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      <em>Beedu, Apoorva</em>,
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Agrawal, Varun,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Grady, Patrick L,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Essa, Irfan,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Hoffman, Judy,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      and Plötz, Thomas
+      
+      
+      
+      
+      
+    </div>
+
+    <div class="periodical">
+      
+      <em>In Proceedings of the 2020 International Symposium on Wearable Computers</em>
+      
+      
+      
+      2020
+      
+    </div>
+    
+
+    <div class="links">
+      
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+      
+      
+      
+      
+      <a href="/assets/pdf/masked_reconstruction.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>The ubiquitous availability of wearable sensing devices has rendered large scale collection of movement data a straightforward endeavor. Yet, annotation of these data remains a challenge and as such, publicly available datasets for human activity recognition (HAR) are typically limited in size as well as in variability, which constrains HAR model training and effectiveness. We introduce masked reconstruction as a viable self-supervised pre-training objective for human activity recognition and explore its effectiveness in comparison to state-of-the-art unsupervised learning techniques. In scenarios with small labeled datasets, the pre-training results in improvements over end-to-end learning on two of the four benchmark datasets. This is promising because the pre-training objective can be integrated “as is” into state-of-the-art recognition pipelines to effectively facilitate improved model robustness, and thus, ultimately, leading to better recognition performance.</p>
+    </div>
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div></li></ol>
+
+  <h2 class="year">2015</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+    
+  </div>
+
+  <div id="apoorva2015location" class="col-sm-8">
+    
+    <div class="title">Location based payload imaging</div>
+    <div class="author">
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Apoorva, J,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Mohan, Brinda,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      <em>Beedu, Apoorva</em>,
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Nayak, Mahendra M,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      Rao, Divya,
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      and Agrawal, VK
+      
+      
+      
+      
+      
+    </div>
+
+    <div class="periodical">
+      
+      <em>In 2015 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)</em>
+      
+      
+      
+      2015
+      
+    </div>
+    
+
+    <div class="links">
+      
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+      
+      
+      
+      
+      <a href="/assets/pdf/location_based_payload_imaging.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>PISAT is a nano-satellite currently under development at PES University, Bangalore. It is an imaging satellite with the GOMSPACE Nanocam C1U as its main payload. It is three axis stabilized with active magnetic control system. Data reception and transmission is through S-band communication system. PES ground station has been commissioned exclusively for the purpose of communicating with PISAT. In the present configuration of PISAT, imaging can be carried out only during ground station visibility, which is for approximately 15 minutes. The dedicated ground station being located at Bangalore, the satellite can thus capture images only over Bangalore in this current mode. However, it is desirable that PISAT be able to carry out imaging at any commanded latitude and longitude. This paper presents a method to add this capability of imaging anywhere by including a provision to estimate the time required to reach the desired latitude and longitude using Location-Based Payload Imaging.</p>
+    </div>
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div></li></ol>
+
+
+</div>
+:ET
