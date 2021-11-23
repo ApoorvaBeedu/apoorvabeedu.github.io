@@ -17,7 +17,7 @@ teaching_experience: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year PhD student adviced by [Dr. Irfan Essa](http://www.irfanessa.gatech.edu/) and [Dr. Justin Romberg](https://jrom.ece.gatech.edu/) at Georgia Institute of Technology. 
+I am a fourth year PhD student advised by [Dr. Irfan Essa](http://www.irfanessa.gatech.edu/) and [Dr. Justin Romberg](https://jrom.ece.gatech.edu/) at Georgia Institute of Technology. 
 
 My research interests are primarily focused on object understanding, and have previously worked on the problem of 6D object pose estimation tasks.
 
