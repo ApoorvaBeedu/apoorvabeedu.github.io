@@ -151,5 +151,12 @@
       {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
     </div>
     {% endif %}
+
+    {% if entry.img %}
+    {% responsive_image_block %}
+    path: {{ entry.img }}
+    alt: "publication thumbnail"
+    {% endresponsive_image_block %}
+    {% endif %}
   </div>
 </div>

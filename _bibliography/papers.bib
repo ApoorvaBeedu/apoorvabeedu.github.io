@@ -1,14 +1,38 @@
 ---
 ---
+@article{beedu2022video,
+  title={Video based Object 6D Pose Estimation using Transformers},
+  author={Beedu, Apoorva and Alamri, Huda and Essa, Irfan},
+  journal={NeurIPS 2022 workshop on Vision Transformers: Theory and Applications},
+  year={2022},
+    booktitle={},
+      selected={true},
+      pdf={VideoPose_Transformer.pdf},
+      abstract={We introduce a Transformer based 6D Object Pose Estimation framework VideoPose, comprising an end-to-end attention based modelling architecture, that attends to previous frames in order to estimate accurate 6D Object Poses in videos. Our approach leverages the temporal information from a video sequence for pose refinement, along with being computationally efficient and robust. Compared to existing methods, our architecture is able to capture and reason from long-range dependencies efficiently, thus iteratively refining over video sequences. Experimental evaluation on the YCB-Video dataset shows that our approach is on par with the state-of-the-art Transformer methods, and performs significantly better relative to CNN based approaches. Further, with a speed of 33 fps, it is also more efficient and therefore applicable to a variety of applications that require real-time object pose estimation. Training code and pretrained models are available at https://github.com/ApoorvaBeedu/VideoPose.},
+}
+
+@misc{beedu2022AVSDTransformer,
+  doi = {10.48550/ARXIV.2210.14512},
+  url = {https://arxiv.org/abs/2210.14512},
+  author = {Alamri, Huda and Bilic, Anthony and Hu, Michael and Beedu, Apoorva and Essa, Irfan},
+  journal={NeurIPS 2022 workshop on Vision Transformers: Theory and Applications},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {End-to-End Multimodal Representation Learning for Video Dialog},
+  year = {2022}, 
+  copyright = {Creative Commons Attribution 4.0 International},
+  selected={true},
+  pdf={AVSD_Transformer.pdf},
+  abstract={Video-based dialog task is a challenging multimodal learning task that has received increasing attention over the past few years with state-of-the-art obtaining new performance records. This progress is largely powered by the adaptation of the more powerful transformer-based language encoders. Despite this progress, existing approaches do not effectively utilize visual features to help solve tasks. Recent studies show that state-of-the-art models are biased toward textual information rather than visual cues. In order to better leverage the available visual information, this study proposes a new framework that combines 3D-CNN network and transformer-based networks into a single visual encoder to extract more robust semantic representations from videos. The visual encoder is jointly trained end-to-end with other input modalities such as text and audio. Experiments on the AVSD task show significant improvement over baselines in both generative and retrieval tasks. }
+}
 
 @article{beedu2021videopose,
   title={VideoPose: Estimating 6D object pose from videos},
   author={Beedu, Apoorva and Ren, Zhile and Agrawal, Varun and Essa, Irfan},
   journal={arXiv preprint arXiv:2111.10677},
   year={2021},
-  selected={true},
+  selected={false},
       pdf={VideoPose.pdf},
-      abstract={We introduce a simple yet effective algorithm that uses convolutional neural networks to directly estimate object poses from videos. Our approach leverages the temporal information from a video sequence, and is computationally efficient and robust to support robotic and AR domains. Our proposed network takes a pre-trained 2D object detector as input, and aggregates visual features through a recurrent neural network to make predictions at each frame. Experimental evaluation on the YCB-Video dataset show that our approach is on par with the state-of-the-art algorithms. Further, with a speed of 30 fps, it is also more efficient than the state-of-the-art, and therefore applicable to a variety of applications that require real-time object pose estimation.}
+      abstract={We introduce a simple yet effective algorithm that uses convolutional neural networks to directly estimate object poses from videos. Our approach leverages the temporal information from a video sequence, and is computationally efficient and robust to support robotic and AR domains. Our proposed network takes a pre-trained 2D object detector as input, and aggregates visual features through a recurrent neural network to make predictions at each frame. Experimental evaluation on the YCB-Video dataset show that our approach is on par with the state-of-the-art algorithms. Further, with a speed of 30 fps, it is also more efficient than the state-of-the-art, and therefore applicable to a variety of applications that require real-time object pose estimation.},
 }
 
 

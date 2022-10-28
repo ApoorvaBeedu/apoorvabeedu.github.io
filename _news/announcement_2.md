@@ -4,7 +4,7 @@ date: 2020-09-01 15:59:00-0400
 inline: true
 ---
 
-Our paper on [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](/apoorvabeedu.github.io/_files/masked-reconstruction.pdf) was accepted into ISWC 2020
+Our paper on [Masked Reconstruction Based Self-Supervision for Human Activity Recognition](/assets/pdf/masked_reconstruction.pdf) was accepted into ISWC 2020
 
 <!-- ---
 layout: post
