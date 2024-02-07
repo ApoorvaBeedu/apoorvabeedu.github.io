@@ -1,5 +1,35 @@
 ---
 ---
+@misc{beedu2024efficacy,
+      title={On the Efficacy of Text-Based Input Modalities for Action Anticipation}, 
+      author={Apoorva Beedu and Karan Samel and Irfan Essa},
+      year={2024},
+      eprint={2401.12972},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      selected={true},
+      pdf={MAT.pdf},
+  abstract={Although the task of anticipating future actions is highly uncertain, information from additional modalities help to narrow down plausible action choices. Each modality provides different environmental context for the model to learn from. While previous multi-modal methods leverage information from modalities such as video and audio, we primarily explore how text inputs for actions and objects can also enable more accurate action anticipation. Therefore, we propose a Multi-modal Anticipative Transformer (MAT), an attention-based video transformer architecture that jointly learns from multi-modal features and text captions. We train our model in two-stages, where the model first learns to predict actions in the video clip by aligning with captions, and during the second stage, we fine-tune the model to predict future actions. Compared to existing methods, MAT has the advantage of learning additional environmental context from two kinds of text inputs: action descriptions during the pre-training stage, and the text inputs for detected objects and actions during modality feature fusion. Through extensive experiments, we evaluate the effectiveness of the pre-training stage, and show that our model outperforms previous methods on all datasets. In addition, we examine the impact of object and action information obtained via text and perform extensive ablations. We evaluate the performance on on three datasets: EpicKitchens-100, EpicKitchens-55 and EGTEA GAZE+; and show that text descriptions do indeed aid in more effective action anticipation.}
+}
+@article{choi2023multimodal,
+  title={Multimodal contrastive learning with hard negative sampling for human activity recognition},
+  author={Choi, Hyeongju and Beedu, Apoorva and Essa, Irfan},
+  journal={ICCV 2023 workshop on PerDream: PERception, Decision making and REAsoning through Multimodal foundational modeling},
+  year={2023},
+  selected={true},
+  pdf={Multimodal Contrastive Learning.pdf},
+  abstract={Human Activity Recognition (HAR) systems have been extensively studied by the vision and ubiquitous computing communities due to their practical applications in daily life, such as smart homes, surveillance, and health monitoring. Typically, this process is supervised in nature and the development of such systems requires access to large quantities of annotated data. However, the higher costs and challenges associated with obtaining good quality annotations have rendered the application of self-supervised methods an attractive option and contrastive learning comprises one such method. However, a major component of successful contrastive learning is the selection of good positive and negative samples. Although positive samples are directly obtainable, sampling good negative samples remain a challenge. As human activities can be recorded by several modalities like camera and IMU sensors, we propose a hard negative sampling method for multimodal HAR with a hard negative sampling loss for skeleton and IMU data pairs. We exploit hard negatives that have different labels from the anchor but are projected nearby in the latent space using an adjustable concentration parameter. Through extensive experiments on two benchmark datasets: UTD-MHAD and MMAct, we demonstrate the robustness of our approach forlearning strong feature representation for HAR tasks, and on the limited data setting. We further show that our model outperforms all other state-of-the-art methods for UTD-MHAD dataset, and self-supervised methods for MMAct: Cross session, even when uni-modal data are used during downstream activity recognition.}
+}
+
+@article{choi2022multi,
+  title={Multi-Stage Based Feature Fusion of Multi-Modal Data for Human Activity Recognition},
+  author={Choi, Hyeongju and Beedu, Apoorva and Haresamudram, Harish and Essa, Irfan},
+  journal={arXiv preprint arXiv:2211.04331},
+  year={2022},
+  pdf={Multi_stage.pdf},
+  abstract={To properly assist humans in their needs, human activity recognition (HAR) systems need the ability to fuse information from multiple modalities. Our hypothesis is that multimodal sensors, visual and non-visual tend to provide complementary information, addressing the limitations of other modalities. In this work, we propose a multi-modal framework that learns to effectively combine features from RGB Video and IMU sensors, and show its robustness for MMAct and UTD-MHAD datasets. Our model is trained in two-stage, where in the first stage, each input encoder learns to effectively extract features, and in the second stage, learns to combine these individual features. We show significant improvements of 22% and 11% compared to video only and IMU only setup on UTD-MHAD dataset, and 20% and 12% on MMAct datasets. Through extensive experimentation, we show the robustness of our model on zero shot setting, and limited annotated data setting. We further compare with state-of-the-art methods that use more input modalities and show that our method outperforms significantly on the more difficult MMact dataset, and performs comparably in UTD-MHAD dataset.}
+}
+
 @article{beedu2022video,
   title={Video based Object 6D Pose Estimation using Transformers},
   author={Beedu, Apoorva and Alamri, Huda and Essa, Irfan},
