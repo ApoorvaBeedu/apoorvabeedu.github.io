@@ -8,5 +8,6 @@ author: "Apoorva Beedu"
 authors: "Apoorva, J and Mohan, Brinda and <strong>Beedu, Apoorva</strong> and Nayak, Mahendra M and Rao, Divya and Agrawal, VK"
 venue: "2015 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)"
 arxiv: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7383863
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:92OHcwkFV-AJ:scholar.google.com/&output=citation&scisdr=ClHSV9rtEI3y5l-jdaI:AFWwaeYAAAAAZuulbaJ_lxkhHQfrVfaRQxeZY4c&scisig=AFWwaeYAAAAAZuulbew3zF_qgVAgO03uSDtdxGQ&scisf=4&ct=citation&cd=-1&hl=en
 ---
 We present a method to add the capability of imaging at any commanded latitude and longitude by including a provision to estimate the time required to reach the desired latitude and longitude using Location-Based Payload Imaging.
