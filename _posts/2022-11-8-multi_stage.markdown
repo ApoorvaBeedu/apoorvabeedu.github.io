@@ -6,7 +6,7 @@ image: /images/multi_stage.png
 categories: research
 author: "Apoorva Beedu"
 authors: "Hyeongju Choi, <strong>Apoorva Beedu</strong>, Harish Haresamudram, Irfan Essa"
-venue: "ArXiv"
+venue: "ArXiv preprint, 2022"
 arxiv: https://arxiv.org/pdf/2211.04331
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zb-tJ943Bk0J:scholar.google.com/&output=citation&scisdr=ClHSV9rtEI3y5l-gG50:AFWwaeYAAAAAZuumA50_re1H44UHaYwp5riwIdc&scisig=AFWwaeYAAAAAZuumA4nmlBq0CaYnel3YtymIfNA&scisf=4&ct=citation&cd=-1&hl=en
 ---

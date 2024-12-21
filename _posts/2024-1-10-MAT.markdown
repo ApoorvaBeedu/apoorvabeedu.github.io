@@ -6,7 +6,7 @@ image: /images/MAT.jpg
 categories: research
 author: "Apoorva Beedu"
 authors: "<strong>Apoorva Beedu</strong>, Harish Haresamudram, Irfan Essa"
-venue: "ArXiv preprint (Under review)"
+venue: "ArXiv preprint (To appear, ICASSP 2025)"
 arxiv: https://arxiv.org/pdf/2401.12972.pdf
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TBwYIFMm2ZgJ:scholar.google.com/&output=citation&scisdr=ClHSV9rtEI3y5l-gUK4:AFWwaeYAAAAAZuumSK5_TkaW61ZLF8pwp66hKqc&scisig=AFWwaeYAAAAAZuumSEg9dlaoUMV5-CgM097dWag&scisf=4&ct=citation&cd=-1&hl=en
 ---

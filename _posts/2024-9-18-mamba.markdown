@@ -6,7 +6,7 @@ image: /images/mamba.png
 categories: research
 author: "Apoorva Beedu"
 authors: "Zhikang Dong*, <strong>Apoorva Beedu</strong>*, Jason Sheinkopf, Irfan Essa"
-venue: "ArXiv preprint (Under review)"
+venue: "ArXiv preprint (To appear, ICASSP 2025)"
 arxiv: https://arxiv.org/pdf/2409.11513
 code: https://github.com/Dongzhikang/MambaVL
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DuIqf1Z6OLkJ:scholar.google.com/&output=citation&scisdr=ClEwVEYSEI3y5lsTKYw:AFWwaeYAAAAAZu8VMYxPwQ8sSv0PLUimHaUHWGI&scisig=AFWwaeYAAAAAZu8VMc-yMl7Q0XAzDPA2ok9Rdt8&scisf=4&ct=citation&cd=-1&hl=en
