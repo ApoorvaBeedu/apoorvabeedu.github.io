@@ -8,6 +8,6 @@ author: "Apoorva Beedu"
 authors: "Huda Alamri, Anthony Bilic, Michael Hu, <strong>Apoorva Beedu</strong>, Irfan Essa"
 venue: "NeurIPS 2022 workshop on Vision Transformers: Theory and Applications"
 arxiv: https://arxiv.org/pdf/2210.14512
-bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5iCUVAVWQ_YJ:scholar.google.com/&output=citation&scisdr=ClHSV9rtEI3y5l-j_pE:AFWwaeYAAAAAZuul5pEb4hHJegFx-y8_qguxn4w&scisig=AFWwaeYAAAAAZuul5sH-wKeJHmeLzH_d6DwrIZs&scisf=4&ct=citation&cd=-1&hl=en
+bibtex: bib/videoDiag.bib
 ---
 We present a framework for video based dialog task.

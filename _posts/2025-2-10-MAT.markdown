@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Text Descriptions of Actions and Objects Improve Action Anticipation"
+date:   2025-02-10 22:21:59 +00:00
+image: /images/MAT.jpg
+categories: research
+author: "Apoorva Beedu"
+website: https://apoorvabeedu.github.io/mcat/
+authors: "<strong>Apoorva Beedu</strong>, Harish Haresamudram, Irfan Essa"
+venue: "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+arxiv: https://arxiv.org/pdf/2401.12972.pdf
+bibtex: bib/mcat.bib
+supplementary: https://arxiv.org/pdf/2401.12972
+---
+Introduces contrastive learning for Action Anticipation and evaluates using text data as additional modalities. Detailed technical report can be found [here](https://arxiv.org/pdf/2401.12972)

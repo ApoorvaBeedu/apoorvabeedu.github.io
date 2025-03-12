@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Mamba Fusion: Learning Actions Through Questioning"
-date:   2024-09-18 22:21:59 +00:00
+date:   2025-02-18 22:21:59 +00:00
 image: /images/mamba.png
 categories: research
 author: "Apoorva Beedu"
-authors: "Zhikang Dong*, <strong>Apoorva Beedu</strong>*, Jason Sheinkopf, Irfan Essa"
-venue: "ArXiv preprint (To appear, ICASSP 2025)"
+authors: "<strong>Apoorva Beedu</strong>*, Zhikang Dong*, Jason Sheinkopf, Irfan Essa"
+venue: "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+website: https://apoorvabeedu.github.io/mamba-vl/
 arxiv: https://arxiv.org/pdf/2409.11513
 code: https://github.com/Dongzhikang/MambaVL
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DuIqf1Z6OLkJ:scholar.google.com/&output=citation&scisdr=ClEwVEYSEI3y5lsTKYw:AFWwaeYAAAAAZu8VMYxPwQ8sSv0PLUimHaUHWGI&scisig=AFWwaeYAAAAAZu8VMc-yMl7Q0XAzDPA2ok9Rdt8&scisf=4&ct=citation&cd=-1&hl=en
