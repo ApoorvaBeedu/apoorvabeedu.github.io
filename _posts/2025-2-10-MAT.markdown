@@ -8,7 +8,7 @@ author: "Apoorva Beedu"
 website: https://apoorvabeedu.github.io/mcat/
 authors: "<strong>Apoorva Beedu</strong>, Harish Haresamudram, Irfan Essa"
 venue: "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
-arxiv: https://arxiv.org/pdf/2401.12972.pdf
+arxiv: https://ieeexplore.ieee.org/abstract/document/10888324
 bibtex: bib/mcat.bib
 supplementary: https://arxiv.org/pdf/2401.12972
 ---
